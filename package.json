@@ -1,0 +1,11 @@
+{
+  "name": "king-wijaya-elektronik",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs",
+    "build": "node -e \"console.log('Static site ready. No build step is needed for this project.')\""
+  }
+}
