@@ -2,7 +2,7 @@
 
 Static website for King Wijaya Elektronik.
 
-## Files to Upload
+<!-- ## Files to Upload
 
 Upload the contents of this folder to GitHub:
 
@@ -44,4 +44,4 @@ Recommended flow:
 
 ## Notes
 
-The contact form opens WhatsApp with a prepared message. It does not use a backend server or paid WhatsApp API.
+The contact form opens WhatsApp with a prepared message. It does not use a backend server or paid WhatsApp API. -->
