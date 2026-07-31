@@ -435,15 +435,6 @@
 "alt": "Produk Baretone King Wijaya 40"
 },
 {
-"id": "acr-01",
-"category": "electronic",
-"brand": "acr",
-"brandName": "ACR",
-"name": "ACR Product 01",
-"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 15.50.21.jpeg",
-"alt": "Produk ACR King Wijaya 01"
-},
-{
 "id": "acr-02",
 "category": "electronic",
 "brand": "acr",
@@ -1567,6 +1558,6 @@
 "name": "Prestige Product 01",
 "image": "assets/products/prestige/WhatsApp Image 2026-07-28 at 15.50.21.jpeg",
 "alt": "Produk Prestige King Wijaya 01"
-},
+}
 ]
 }
