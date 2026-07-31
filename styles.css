@@ -513,6 +513,7 @@ h1 {
 
 .empty-state {
   grid-column: 1 / -1;
+  margin-top: 18px;
   padding: 42px;
   border: 1px dashed #cfcfcf;
   border-radius: 8px;

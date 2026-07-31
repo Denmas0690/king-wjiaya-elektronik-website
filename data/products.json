@@ -1,0 +1,830 @@
+{
+"categories": [
+{
+"id": "components",
+"name": "Components",
+"emptyTitle": "Components",
+"emptyMessage": "Produk akan ditambahkan."
+},
+{
+"id": "electronic",
+"name": "Electronic"
+}
+],
+"brands": [
+{
+"id": "baretone",
+"name": "Baretone"
+},
+{
+"id": "acr",
+"name": "ACR"
+},
+{
+"id": "curve",
+"name": "Curve"
+},
+{
+"id": "legacy",
+"name": "Legacy"
+},
+{
+"id": "jic",
+"name": "Jic"
+},
+{
+"id": "blackspider",
+"name": "Blackspider"
+},
+{
+"id": "ashley",
+"name": "Ashley"
+},
+{
+"id": "firstclass",
+"name": "Firstclass"
+},
+{
+"id": "toa",
+"name": "Toa"
+},
+{
+"id": "wisdom",
+"name": "Wisdom"
+},
+{
+"id": "yamaha",
+"name": "Yamaha"
+},
+{
+"id": "shure",
+"name": "Shure"
+},
+{
+"id": "neutrik",
+"name": "Neutrik"
+},
+{
+"id": "audax",
+"name": "Audax"
+}
+],
+"products": [
+{
+"id": "baretone-01",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 01",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.11.18.jpeg",
+"alt": "Produk Baretone King Wijaya 01"
+},
+{
+"id": "baretone-02",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 02",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.15.15.jpeg",
+"alt": "Produk Baretone King Wijaya 02"
+},
+{
+"id": "baretone-03",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 03",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.19.01.jpeg",
+"alt": "Produk Baretone King Wijaya 03"
+},
+{
+"id": "baretone-04",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 04",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.20.29.jpeg",
+"alt": "Produk Baretone King Wijaya 04"
+},
+{
+"id": "baretone-05",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 05",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.26.28.jpeg",
+"alt": "Produk Baretone King Wijaya 05"
+},
+{
+"id": "baretone-06",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 06",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.28.17.jpeg",
+"alt": "Produk Baretone King Wijaya 06"
+},
+{
+"id": "baretone-07",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 07",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.30.27.jpeg",
+"alt": "Produk Baretone King Wijaya 07"
+},
+{
+"id": "baretone-08",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 08",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.34.00.jpeg",
+"alt": "Produk Baretone King Wijaya 08"
+},
+{
+"id": "baretone-09",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 09",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.36.33.jpeg",
+"alt": "Produk Baretone King Wijaya 09"
+},
+{
+"id": "baretone-10",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 10",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.37.33.jpeg",
+"alt": "Produk Baretone King Wijaya 10"
+},
+{
+"id": "baretone-11",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 11",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.38.55.jpeg",
+"alt": "Produk Baretone King Wijaya 11"
+},
+{
+"id": "baretone-12",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 12",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.40.53.jpeg",
+"alt": "Produk Baretone King Wijaya 12"
+},
+{
+"id": "baretone-13",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 13",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.42.29.jpeg",
+"alt": "Produk Baretone King Wijaya 13"
+},
+{
+"id": "baretone-14",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 14",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.49.11.jpeg",
+"alt": "Produk Baretone King Wijaya 14"
+},
+{
+"id": "baretone-15",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 15",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-03 at 13.15.19.jpeg",
+"alt": "Produk Baretone King Wijaya 15"
+},
+{
+"id": "baretone-16",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 16",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 18.04.21.jpeg",
+"alt": "Produk Baretone King Wijaya 16"
+},
+{
+"id": "baretone-17",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 17",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 18.04.48.jpeg",
+"alt": "Produk Baretone King Wijaya 17"
+},
+{
+"id": "baretone-18",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 18",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 19.11.58.jpeg",
+"alt": "Produk Baretone King Wijaya 18"
+},
+{
+"id": "baretone-19",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 19",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 19.13.52.jpeg",
+"alt": "Produk Baretone King Wijaya 19"
+},
+{
+"id": "baretone-20",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 20",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 19.15.02.jpeg",
+"alt": "Produk Baretone King Wijaya 20"
+},
+{
+"id": "baretone-21",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 21",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 19.16.59.jpeg",
+"alt": "Produk Baretone King Wijaya 21"
+},
+{
+"id": "baretone-22",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 22",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 19.19.50.jpeg",
+"alt": "Produk Baretone King Wijaya 22"
+},
+{
+"id": "baretone-23",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 23",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 19.21.23.jpeg",
+"alt": "Produk Baretone King Wijaya 23"
+},
+{
+"id": "baretone-24",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 24",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-03 at 06.38.35.jpeg",
+"alt": "Produk Baretone King Wijaya 24"
+},
+{
+"id": "baretone-25",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 25",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-03 at 06.57.02.jpeg",
+"alt": "Produk Baretone King Wijaya 25"
+},
+{
+"id": "baretone-26",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 26",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-03 at 07.05.35.jpeg",
+"alt": "Produk Baretone King Wijaya 26"
+},
+{
+"id": "baretone-27",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 27",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-03 at 07.08.49.jpeg",
+"alt": "Produk Baretone King Wijaya 27"
+},
+{
+"id": "baretone-28",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 28",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-03 at 08.11.03.jpeg",
+"alt": "Produk Baretone King Wijaya 28"
+},
+{
+"id": "baretone-29",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 29",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-02 at 06.53.55.jpeg",
+"alt": "Produk Baretone King Wijaya 29"
+},
+{
+"id": "baretone-30",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 30",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.28.10.jpeg",
+"alt": "Produk Baretone King Wijaya 30"
+},
+{
+"id": "baretone-31",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 31",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.29.45.jpeg",
+"alt": "Produk Baretone King Wijaya 31"
+},
+{
+"id": "baretone-32",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 32",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.30.21.jpeg",
+"alt": "Produk Baretone King Wijaya 32"
+},
+{
+"id": "baretone-33",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 33",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.31.00.jpeg",
+"alt": "Produk Baretone King Wijaya 33"
+},
+{
+"id": "baretone-34",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 34",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.32.36.jpeg",
+"alt": "Produk Baretone King Wijaya 34"
+},
+{
+"id": "baretone-35",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 35",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.34.11.jpeg",
+"alt": "Produk Baretone King Wijaya 35"
+},
+{
+"id": "baretone-36",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 36",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.35.25.jpeg",
+"alt": "Produk Baretone King Wijaya 36"
+},
+{
+"id": "baretone-37",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 37",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.36.00.jpeg",
+"alt": "Produk Baretone King Wijaya 37"
+},
+{
+"id": "baretone-38",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 38",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-05 at 06.36.33.jpeg",
+"alt": "Produk Baretone King Wijaya 38"
+},
+{
+"id": "baretone-39",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 39",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-29 at 11.07.26.jpeg",
+"alt": "Produk Baretone King Wijaya 39"
+},
+{
+"id": "baretone-40",
+"category": "electronic",
+"brand": "baretone",
+"brandName": "Baretone",
+"name": "Baretone Product 40",
+"image": "assets/products/baretone/WhatsApp Image 2026-07-29 at 11.07.43.jpeg",
+"alt": "Produk Baretone King Wijaya 40"
+},
+{
+"id": "acr-01",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 01",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 15.50.21.jpeg",
+"alt": "Produk ACR King Wijaya 01"
+},
+{
+"id": "acr-02",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 02",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 15.53.10.jpeg",
+"alt": "Produk ACR King Wijaya 02"
+},
+{
+"id": "acr-03",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 03",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 15.54.15.jpeg",
+"alt": "Produk ACR King Wijaya 03"
+},
+{
+"id": "acr-04",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 04",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 15.54.22.jpeg",
+"alt": "Produk ACR King Wijaya 04"
+},
+{
+"id": "acr-05",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 05",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 15.55.04.jpeg",
+"alt": "Produk ACR King Wijaya 05"
+},
+{
+"id": "acr-06",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 06",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.00.42.jpeg",
+"alt": "Produk ACR King Wijaya 06"
+},
+{
+"id": "acr-07",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 07",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.00.42_.jpeg",
+"alt": "Produk ACR King Wijaya 07"
+},
+{
+"id": "acr-08",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 08",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.01.17.jpeg",
+"alt": "Produk ACR King Wijaya 08"
+},
+{
+"id": "acr-09",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 09",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.07.57.jpeg",
+"alt": "Produk ACR King Wijaya 09"
+},
+{
+"id": "acr-10",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 10",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.08.32.jpeg",
+"alt": "Produk ACR King Wijaya 10"
+},
+{
+"id": "acr-11",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 11",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.09.49.jpeg",
+"alt": "Produk ACR King Wijaya 11"
+},
+{
+"id": "acr-12",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 12",
+"image": "assets/products/acr/WhatsApp Image 2026-07-28 at 16.11.26.jpeg",
+"alt": "Produk ACR King Wijaya 12"
+},
+{
+"id": "acr-13",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 13",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 10.45.31_.jpeg",
+"alt": "Produk ACR King Wijaya 13"
+},
+{
+"id": "acr-14",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 14",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 10.47.44.jpeg",
+"alt": "Produk ACR King Wijaya 14"
+},
+{
+"id": "acr-15",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 15",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 10.48.16.jpeg",
+"alt": "Produk ACR King Wijaya 15"
+},
+{
+"id": "acr-16",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 16",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 10.48.40.jpeg",
+"alt": "Produk ACR King Wijaya 16"
+},
+{
+"id": "acr-17",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 17",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.01.03.jpeg",
+"alt": "Produk ACR King Wijaya 17"
+},
+{
+"id": "acr-18",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 18",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.01.58.jpeg",
+"alt": "Produk ACR King Wijaya 18"
+},
+{
+"id": "acr-19",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 19",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.03.36.jpeg",
+"alt": "Produk ACR King Wijaya 19"
+},
+{
+"id": "acr-20",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 20",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.04.25.jpeg",
+"alt": "Produk ACR King Wijaya 20"
+},
+{
+"id": "acr-21",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 21",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.05.18.jpeg",
+"alt": "Produk ACR King Wijaya 21"
+},
+{
+"id": "acr-22",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 22",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.06.05.jpeg",
+"alt": "Produk ACR King Wijaya 22"
+},
+{
+"id": "acr-23",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 23",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.15.10.jpeg",
+"alt": "Produk ACR King Wijaya 23"
+},
+{
+"id": "acr-24",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 24",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.06.05.jpeg",
+"alt": "Produk ACR King Wijaya 24"
+},
+{
+"id": "acr-25",
+"category": "electronic",
+"brand": "acr",
+"brandName": "ACR",
+"name": "ACR Product 25",
+"image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.16.15.jpeg",
+"alt": "Produk ACR King Wijaya 25"
+},
+{
+"id": "curve-01",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 01",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 10.53.15.jpeg",
+"alt": "Produk CURVE King Wijaya 01"
+},
+{
+"id": "curve-02",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 02",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 10.53.49.jpeg",
+"alt": "Produk CURVE King Wijaya 02"
+},
+{
+"id": "curve-03",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 03",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 10.56.41.jpeg",
+"alt": "Produk CURVE King Wijaya 03"
+},
+{
+"id": "curve-04",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 04",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 10.57.49.jpeg",
+"alt": "Produk CURVE King Wijaya 04"
+},
+{
+"id": "curve-05",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 05",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 10.58.19.jpeg",
+"alt": "Produk CURVE King Wijaya 05"
+},
+{
+"id": "curve-06",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 06",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 10.59.14.jpeg",
+"alt": "Produk CURVE King Wijaya 06"
+},
+{
+"id": "curve-07",
+"category": "electronic",
+"brand": "curve",
+"brandName": "CURVE",
+"name": "CURVE Product 07",
+"image": "assets/products/curve/WhatsApp Image 2026-07-29 at 11.00.01.jpeg",
+"alt": "Produk CURVE King Wijaya 07"
+},
+{
+"id": "legacy-01",
+"category": "electronic",
+"brand": "legacy",
+"brandName": "Legacy",
+"name": "Legacy Product 01",
+"image": "assets/products/legacy/WhatsApp Image 2026-07-29 at 11.30.31.jpeg",
+"alt": "Produk Legacy King Wijaya 01"
+},
+{
+"id": "legacy-02",
+"category": "electronic",
+"brand": "legacy",
+"brandName": "Legacy",
+"name": "Legacy Product 02",
+"image": "assets/products/legacy/WhatsApp Image 2026-07-29 at 11.31.00.jpeg",
+"alt": "Produk Legacy King Wijaya 02"
+},
+{
+"id": "legacy-03",
+"category": "electronic",
+"brand": "legacy",
+"brandName": "Legacy",
+"name": "Legacy Product 03",
+"image": "assets/products/legacy/WhatsApp Image 2026-07-29 at 14.11.06.jpeg",
+"alt": "Produk Legacy King Wijaya 03"
+},
+{
+"id": "legacy-04",
+"category": "electronic",
+"brand": "legacy",
+"brandName": "Legacy",
+"name": "Legacy Product 04",
+"image": "assets/products/legacy/WhatsApp Image 2026-07-29 at 14.11.28.jpeg",
+"alt": "Produk Legacy King Wijaya 04"
+},
+{
+"id": "audax-01",
+"category": "electronic",
+"brand": "audax",
+"brandName": "Audax",
+"name": "Audax Product 01",
+"image": "assets/products/audax/WhatsApp Image 2026-07-29 at 14.32.14.jpeg",
+"alt": "Produk Audax King Wijaya 01"
+},
+{
+"id": "shure-01",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 01",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.34.57.jpeg",
+"alt": "Produk Shure King Wijaya 01"
+},
+{
+"id": "shure-02",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 02",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.35.52.jpeg",
+"alt": "Produk Shure King Wijaya 02"
+},
+{
+"id": "shure-03",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 03",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.40.20.jpeg",
+"alt": "Produk Shure King Wijaya 03"
+},
+{
+"id": "shure-04",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 04",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.40.46.jpeg",
+"alt": "Produk Shure King Wijaya 04"
+},
+{
+"id": "shure-05",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 05",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.41.24.jpeg",
+"alt": "Produk Shure King Wijaya 05"
+},
+{
+"id": "shure-06",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 06",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.41.43.jpeg",
+"alt": "Produk Shure King Wijaya 06"
+},
+{
+"id": "shure-07",
+"category": "electronic",
+"brand": "shure",
+"brandName": "Shure",
+"name": "Shure Product 07",
+"image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.42.06.jpeg",
+"alt": "Produk Shure King Wijaya 07"
+}
+]
+}
