@@ -46,7 +46,7 @@
 },
 {
 "id": "toa",
-"name": "Toa"
+"name": "TOA"
 },
 {
 "id": "wisdom",
@@ -759,6 +759,24 @@
 "alt": "Produk Audax King Wijaya 01"
 },
 {
+"id": "audax-02",
+"category": "electronic",
+"brand": "audax",
+"brandName": "Audax",
+"name": "Audax Product 02",
+"image": "assets/products/audax/WhatsApp Image 2026-07-29 at 14.32.15.jpeg",
+"alt": "Produk Audax King Wijaya 02"
+},
+{
+"id": "audax-03",
+"category": "electronic",
+"brand": "audax",
+"brandName": "Audax",
+"name": "Audax Product 03",
+"image": "assets/products/audax/WhatsApp Image 2026-07-29 at 14.32.15.jpeg",
+"alt": "Produk Audax King Wijaya 03"
+},
+{
 "id": "shure-01",
 "category": "electronic",
 "brand": "shure",
@@ -1051,16 +1069,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 01",
-"image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.25.23.jpeg",
-"alt": "Produk TOA King Wijaya 01"
-},
-{
-"id": "toa-01",
-"category": "electronic",
-"brand": "toa",
-"brandName": "TOA",
-"name": "TOA Product 01",
+"name": "Ceiling Toa ZS-658R",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.25.23.jpeg",
 "alt": "Produk TOA King Wijaya 01"
 },
@@ -1069,7 +1078,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 02",
+"name": "Corong / Horn Toa zh662 60w + matching",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.26.08.jpeg",
 "alt": "Produk TOA King Wijaya 02"
 },
@@ -1078,7 +1087,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 03",
+"name": "Corong / Horn Toa zh662 25w + matching",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.26.17.jpeg",
 "alt": "Produk TOA King Wijaya 03"
 },
@@ -1087,7 +1096,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 04",
+"name": "Corong / Horn Toa zh662 50w + matching",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.26.51.jpeg",
 "alt": "Produk TOA King Wijaya 04"
 },
@@ -1096,7 +1105,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 05",
+"name": "Corong / Horn Toa ZH5025B  25w",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.27.54.jpeg",
 "alt": "Produk TOA King Wijaya 05"
 },
@@ -1105,7 +1114,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 06",
+"name": "Corong / Horn Toa zh-5050-as 50w",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.29.14.jpeg",
 "alt": "Produk TOA King Wijaya 06"
 },
@@ -1114,7 +1123,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 07",
+"name": "Megaphone TOA ZR-2015S",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.31.11.jpeg",
 "alt": "Produk TOA King Wijaya 07"
 },
@@ -1123,7 +1132,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 08",
+"name": "Speaker Dinding TOA ZS-1030B",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.32.04.jpeg",
 "alt": "Produk TOA King Wijaya 08"
 },
@@ -1132,7 +1141,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 09",
+"name": "Speaker box TOA ZS-062",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.32.44.jpeg",
 "alt": "Produk TOA King Wijaya 09"
 },
@@ -1141,7 +1150,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 10",
+"name": "Speaker Column TOA ZS-107",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.33.37.jpeg",
 "alt": "Produk TOA King Wijaya 10"
 },
@@ -1150,7 +1159,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 11",
+"name": "Speaker Column TOA ZS-207",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.33.52.jpeg",
 "alt": "Produk TOA King Wijaya 11"
 },
@@ -1159,7 +1168,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 12",
+"name": "Horn Speaker Toa ZH-610S",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.35.38.jpeg",
 "alt": "Produk TOA King Wijaya 12"
 },
@@ -1168,7 +1177,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 13",
+"name": "Horn Speaker Toa ZH-615S",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.35.47.jpeg",
 "alt": "Produk TOA King Wijaya 13"
 },
@@ -1177,7 +1186,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 14",
+"name": "Horn Speaker Toa ZH-625S",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.35.55.jpeg",
 "alt": "Produk TOA King Wijaya 14"
 },
@@ -1186,7 +1195,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 15",
+"name": "Microphone mic wireless TOA Z-WS100H-AS",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.36.43.jpeg",
 "alt": "Produk TOA King Wijaya 15"
 },
@@ -1195,7 +1204,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 16",
+"name": "Mic / Microphone kabel TOA ZM-420",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.37.19.jpeg",
 "alt": "Produk TOA King Wijaya 16"
 },
@@ -1204,7 +1213,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 17",
+"name": "Mic / Microphone kabel TOA ZM-320",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.37.41.jpeg",
 "alt": "Produk TOA King Wijaya 17"
 },
@@ -1213,7 +1222,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 18",
+"name": "Mic / Microphone kabel TOA ZM-300-AS",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.38.16.jpeg",
 "alt": "Produk TOA King Wijaya 18"
 },
@@ -1231,7 +1240,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 20",
+"name": "Mic / Microphone kabel TOA ZM-270",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.39.06.jpeg",
 "alt": "Produk TOA King Wijaya 20"
 },
@@ -1240,7 +1249,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 21",
+"name": "Mic / Microphone kabel TOA ZM-260",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.39.59.jpeg",
 "alt": "Produk TOA King Wijaya 21"
 },
@@ -1249,7 +1258,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 22",
+"name": "Micc/ Microphone Jepit TOA ZM-361-AS",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.40.28.jpeg",
 "alt": "Produk TOA King Wijaya 22"
 },
@@ -1258,7 +1267,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 23",
+"name": "Mic / Microphone TOA Podium Gooseneck ZM-380-AS",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.41.34.jpeg",
 "alt": "Produk TOA King Wijaya 23"
 },
@@ -1267,7 +1276,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 24",
+"name": "Ampli Amplifier TOA ZA-230W 30watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.42.39.jpeg",
 "alt": "Produk TOA King Wijaya 24"
 },
@@ -1276,7 +1285,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 25",
+"name": "Ampli Amplifier TOA ZA-2260 60watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.43.45.jpeg",
 "alt": "Produk TOA King Wijaya 25"
 },
@@ -1285,7 +1294,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 26",
+"name": "Ampli Amplifier TOA ZA-2120 120watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.43.45.jpeg",
 "alt": "Produk TOA King Wijaya 26"
 },
@@ -1294,7 +1303,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 27",
+"name": "Ampli Amplifier TOA ZA-2240 240watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.44.23.jpeg",
 "alt": "Produk TOA King Wijaya 27"
 },
@@ -1303,7 +1312,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 28",
+"name": "Ampli Amplifier TOA ZA-3248 480watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.45.15.jpeg",
 "alt": "Produk TOA King Wijaya 28"
 },
@@ -1312,7 +1321,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 29",
+"name": "Portable Wireless Meeting Amplifier TOA ZW-G10CB-AS",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.47.27.jpeg",
 "alt": "Produk TOA King Wijaya 29"
 },
@@ -1321,7 +1330,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 30",
+"name": "Ampli Amplifier Mobil TOA ZA-250S",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 10.49.16.jpeg",
 "alt": "Produk TOA King Wijaya 30"
 },
@@ -1330,7 +1339,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 31",
+"name": "Toa volume control ZV303",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.09.22.jpeg",
 "alt": "Produk TOA King Wijaya 31"
 },
@@ -1339,7 +1348,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 32",
+"name": "Spool spul TOA ZG-60B-A",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.11.09.jpeg",
 "alt": "Produk TOA King Wijaya 32"
 },
@@ -1348,7 +1357,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 33",
+"name": "Spool spul TOA ZG-10CA",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.11.52.jpeg",
 "alt": "Produk TOA King Wijaya 33"
 },
@@ -1357,7 +1366,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 34",
+"name": "Spool Spul TOA ZG-30D-A 25watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.13.38.jpeg",
 "alt": "Produk TOA King Wijaya 34"
 },
@@ -1366,7 +1375,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 35",
+"name": "Spool Spul TOA ZG-30D-B 50watt",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.14.57.jpeg",
 "alt": "Produk TOA King Wijaya 35"
 },
@@ -1375,7 +1384,7 @@
 "category": "electronic",
 "brand": "toa",
 "brandName": "TOA",
-"name": "TOA Product 36",
+"name": "Trafo Matching TOA ZT-351",
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.18.05.jpeg",
 "alt": "Produk TOA King Wijaya 36"
 },
