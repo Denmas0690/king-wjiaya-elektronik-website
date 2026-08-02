@@ -434,6 +434,8 @@
 "image": "assets/products/baretone/WhatsApp Image 2026-07-29 at 11.07.43.jpeg",
 "alt": "Produk Baretone King Wijaya 40"
 },
+
+
 {
 "id": "acr-02",
 "category": "electronic",
@@ -650,6 +652,8 @@
 "image": "assets/products/acr/WhatsApp Image 2026-07-29 at 11.16.15.jpeg",
 "alt": "Produk ACR King Wijaya 25"
 },
+
+
 {
 "id": "curve-01",
 "category": "electronic",
@@ -713,6 +717,8 @@
 "image": "assets/products/curve/WhatsApp Image 2026-07-29 at 11.00.01.jpeg",
 "alt": "Produk CURVE King Wijaya 07"
 },
+
+
 {
 "id": "legacy-01",
 "category": "electronic",
@@ -749,6 +755,8 @@
 "image": "assets/products/legacy/WhatsApp Image 2026-07-29 at 14.11.28.jpeg",
 "alt": "Produk Legacy King Wijaya 04"
 },
+
+
 {
 "id": "audax-01",
 "category": "electronic",
@@ -776,6 +784,8 @@
 "image": "assets/products/audax/WhatsApp Image 2026-07-29 at 14.32.15.jpeg",
 "alt": "Produk Audax King Wijaya 03"
 },
+
+
 {
 "id": "shure-01",
 "category": "electronic",
@@ -839,6 +849,8 @@
 "image": "assets/products/shure/WhatsApp Image 2026-07-29 at 14.42.06.jpeg",
 "alt": "Produk Shure King Wijaya 07"
 },
+
+
 {
 "id": "neutrik-01",
 "category": "electronic",
@@ -893,12 +905,14 @@
 "image": "assets/products/neutrik/WhatsApp Image 2026-07-29 at 14.55.33.jpeg",
 "alt": "Produk Neutrik King Wijaya 06"
 },
+
+
 {
 "id": "yamaha-01",
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 01",
+"name": "Speaker pasif 4 inch YAMAHA VS4",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 14.56.45.jpeg",
 "alt": "Produk Yamaha King Wijaya 01"
 },
@@ -907,7 +921,7 @@
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 02",
+"name": "Speaker pasif 6 inch YAMAHA VS6",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 14.57.21.jpeg",
 "alt": "Produk Yamaha King Wijaya 02"
 },
@@ -916,7 +930,7 @@
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 03",
+"name": "Speaker Aktif YAMAHA DBR",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 14.59.32.jpeg",
 "alt": "Produk Yamaha King Wijaya 03"
 },
@@ -925,7 +939,7 @@
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 04",
+"name": "Mixer Yamaha 6ch MG6X ORIGINAL",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 15.00.41.jpeg",
 "alt": "Produk Yamaha King Wijaya 04"
 },
@@ -934,7 +948,7 @@
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 05",
+"name": "Mixer Yamaha 10ch MG10XU ORIGINAL",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 15.01.35.jpeg",
 "alt": "Produk Yamaha King Wijaya 05"
 },
@@ -943,7 +957,7 @@
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 06",
+"name": "Mixer Yamaha 12ch MG12XU ORIGINAL",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 15.02.03.jpeg",
 "alt": "Produk Yamaha King Wijaya 06"
 },
@@ -952,10 +966,12 @@
 "category": "electronic",
 "brand": "yamaha",
 "brandName": "Yamaha",
-"name": "Yamaha Product 07",
+"name": "Mixer Yamaha 16ch MG16XU ORIGINAL",
 "image": "assets/products/yamaha/WhatsApp Image 2026-07-29 at 15.02.27.jpeg",
 "alt": "Produk Yamaha King Wijaya 07"
 },
+
+
 {
 "id": "blackspider-01",
 "category": "electronic",
@@ -1064,6 +1080,8 @@
 "image": "assets/products/blackspider/WhatsApp Image 2026-07-31 at 10.22.57.jpeg",
 "alt": "Produk Blackspider King Wijaya 12"
 },
+
+
 {
 "id": "toa-01",
 "category": "electronic",
@@ -1388,6 +1406,8 @@
 "image": "assets/products/toa/WhatsApp Image 2026-07-31 at 11.18.05.jpeg",
 "alt": "Produk TOA King Wijaya 36"
 },
+
+
 {
 "id": "wisdom-01",
 "category": "electronic",
