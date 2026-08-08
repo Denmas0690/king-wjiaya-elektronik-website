@@ -1587,6 +1587,124 @@
 "name": "Prestige Product 01",
 "image": "assets/products/prestige/WhatsApp Image 2026-07-28 at 15.50.21.jpeg",
 "alt": "Produk Prestige King Wijaya 01"
+},
+
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LA 4 inch",
+"image": "assets/products/jic/JIC LA 4 inc.jpg",
+"alt": "Produk Jic King Wijaya 01"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jich",
+"name": "JIC LA 6 inch",
+"image": "assets/products/jic/JIC LA 6 INC.jpeg",
+"alt": "Produk Jic King Wijaya 02"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jich",
+"name": "JIC LA 8 inch",
+"image": "assets/products/jic/JIC LA 8 inc.jpg",
+"alt": "Produk Jic King Wijaya 03"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LA 10 inch",
+"image": "assets/products/jic/JIC LA 10 inc.jpg",
+"alt": "Produk Jic King Wijaya 04"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LA 12 inch",
+"image": "assets/products/jic/JIC LA 12 inc.jpg",
+"alt": "Produk Jic King Wijaya 05"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LA 15 inch",
+"image": "assets/products/jic/JIC LA 15 inc.jpg",
+"alt": "Produk Jic King Wijaya 06"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LA 18 inch",
+"image": "assets/products/jic/JIC LA 18 inc.jpg",
+"alt": "Produk Jic King Wijaya 07"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LB 4 inch",
+"image": "assets/products/jic/JIC LB 4 inc.jpg",
+"alt": "Produk Jic King Wijaya 0"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LB 8 inch",
+"image": "assets/products/jic/JIC LB 8inc.jpg",
+"alt": "Produk Jic King Wijaya 09"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LB 10 inch",
+"image": "assets/products/jic/JIC LB 10 inc.jpg",
+"alt": "Produk Jic King Wijaya 10"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LB 12 inch",
+"image": "assets/products/jic/JIC LB 12 inc.jpg",
+"alt": "Produk Jic King Wijaya 11"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LB 15 inch",
+"image": "assets/products/jic/JIC LB 15 inc.jpg",
+"alt": "Produk Jic King Wijaya 12"
+},
+{
+"id": "jic",
+"category": "electronic",
+"brand": "jic",
+"brandName": "Jic",
+"name": "JIC LB 18 inch",
+"image": "assets/products/jic/JIC LB 18 inc.jpg",
+"alt": "Produk Jic King Wijaya 13"
 }
 ]
 }
